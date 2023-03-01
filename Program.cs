@@ -38,3 +38,6 @@ string[] itog(string[] array)
     } 
     return final2; 
 } 
+
+Console.WriteLine("Введите длину массива"); 
+int m = Convert.ToInt32(Console.ReadLine()); 
