@@ -2,7 +2,7 @@
 
 Работает по следующему алгоритму:
 
-![skhema](skhema.png)
+![scheme](scheme.png)
 
 ## Ввод данных
 
